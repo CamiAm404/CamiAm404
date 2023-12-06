@@ -27,7 +27,7 @@
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![SQL Server](https://img.shields.io/badge/SQL%20Server-8f2f22.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-2ab02c.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![SQL Server](https://img.shields.io/badge/SQL%20Server-8f2f22.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-289929.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
 
@@ -46,7 +46,7 @@
 
 <p align="center">
 <a href="https://github.com/CamiAm404">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CamiAm404&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamiAm404&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CamiAm404&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
 </a>
 </p>
 
