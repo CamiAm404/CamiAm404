@@ -32,7 +32,8 @@
 <br>
 
 - **IDEs**:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-421066.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Datagrip](https://img.shields.io/badge/datagrip-d17bd0.svg?style=for-the-badge&logo=datagrip&logoColor=white) 
+
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-421066.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Datagrip](https://img.shields.io/badge/datagrip-d17bd0.svg?style=for-the-badge&logo=datagrip&logoColor=white) 
 
 <br>
 
