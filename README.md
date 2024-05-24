@@ -21,7 +21,7 @@
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-ba2014.svg?style=for-the-badge&logo=angular&logoColor=white)  ![Vue.js](https://img.shields.io/badge/Vue.js-45ad71.svg?style=for-the-badge&logo=vue.js&logoColor=white)
     
 <br>
 
@@ -39,7 +39,7 @@
 
 - **Currently learning**:
 
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)   ![Angular](https://img.shields.io/badge/Angular-ba2014.svg?style=for-the-badge&logo=angular&logoColor=white)  ![Vue.js](https://img.shields.io/badge/Vue.js-45ad71.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-5027D5.svg?style=for-the-badge&logo=.NET)  ![SpringBoot](https://img.shields.io/badge/SpringBoot-daf5da.svg?style=for-the-badge&logo=SpringBoot)
 <br>
 
 ### GitHub Analytics
