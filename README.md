@@ -7,7 +7,7 @@
 
 - Software engineering student at UPC 
 - Participating in CTF's at spare time
-- Currently learning Web Development and Python
+- Currently learning Mobile Development
 
 <br>
 
