@@ -39,13 +39,13 @@
 
 - **IDEs**:
 
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-421066.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Datagrip](https://img.shields.io/badge/datagrip-d17bd0.svg?style=for-the-badge&logo=datagrip&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-3e7ab5.svg?style=for-the-badge&logo=webstorm&logoColor=white) <br> ![IntelliJ IDEA](https://img.shields.io/badge/intellij_idea-db7a25.svg?style=for-the-badge&logo=intellijidea&logoColor=white) ![Rider](https://img.shields.io/badge/rider-cf1137.svg?style=for-the-badge&logo=rider&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3dd084.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-421066.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Datagrip](https://img.shields.io/badge/datagrip-d17bd0.svg?style=for-the-badge&logo=datagrip&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-3e7ab5.svg?style=for-the-badge&logo=webstorm&logoColor=white) <br> ![IntelliJ IDEA](https://img.shields.io/badge/intellij_idea-db7a25.svg?style=for-the-badge&logo=intellijidea&logoColor=white) ![Rider](https://img.shields.io/badge/rider-cf1137.svg?style=for-the-badge&logo=rider&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-2894bf.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 <br>
 
 - **Currently learning**:
 
-    ![Kotlin](https://img.shields.io/badge/kotlin-9b46e0.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+    ![Kotlin](https://img.shields.io/badge/android-3dd084.svg?style=for-the-badge&logo=android&logoColor=white&logoSize=auto)
     
 <br>
 
