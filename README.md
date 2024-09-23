@@ -44,6 +44,7 @@
 <br>
 
 - **Currently learning**:
+
     ![Kotlin](https://img.shields.io/badge/kotlin-9b46e0.svg?style=for-the-badge&logo=kotlin&logoColor=white)
     
 <br>
