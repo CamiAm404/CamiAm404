@@ -26,7 +26,8 @@
 <br>
 
 - **Back-End Development**:
- ![.NET](https://img.shields.io/badge/.NET-5027D5.svg?style=for-the-badge&logo=.NET)  ![SpringBoot](https://img.shields.io/badge/SpringBoot-daf5da.svg?style=for-the-badge&logo=SpringBoot)
+
+   ![.NET](https://img.shields.io/badge/.NET-5027D5.svg?style=for-the-badge&logo=.NET)  ![SpringBoot](https://img.shields.io/badge/SpringBoot-daf5da.svg?style=for-the-badge&logo=SpringBoot)
 
 <br>
 
