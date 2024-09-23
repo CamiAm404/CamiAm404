@@ -15,7 +15,7 @@
 
 - **Languages**:
     
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-7410a3.svg?style=for-the-badge&logo=c%23&logoColor=white)
 
 <br>   
     
@@ -25,21 +25,26 @@
     
 <br>
 
+- **Back-End Development**:
+ ![.NET](https://img.shields.io/badge/.NET-5027D5.svg?style=for-the-badge&logo=.NET)  ![SpringBoot](https://img.shields.io/badge/SpringBoot-daf5da.svg?style=for-the-badge&logo=SpringBoot)
+
+<br>
+
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![SQL Server](https://img.shields.io/badge/SQL%20Server-8f2f22.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-289929.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![SQL Server](https://img.shields.io/badge/SQL%20Server-8f2f22.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-289929.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-5f83ba.svg?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto) ![Figma](https://img.shields.io/badge/Figma-be7fd4.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 <br>
 
 - **IDEs**:
 
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-421066.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Datagrip](https://img.shields.io/badge/datagrip-d17bd0.svg?style=for-the-badge&logo=datagrip&logoColor=white) 
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-421066.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Datagrip](https://img.shields.io/badge/datagrip-d17bd0.svg?style=for-the-badge&logo=datagrip&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-3e7ab5.svg?style=for-the-badge&logo=webstorm&logoColor=white) <br> ![IntelliJ IDEA](https://img.shields.io/badge/intellij_idea-db7a25.svg?style=for-the-badge&logo=intellijidea&logoColor=white) ![Rider](https://img.shields.io/badge/rider-cf1137.svg?style=for-the-badge&logo=rider&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3dd084.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 <br>
 
 - **Currently learning**:
-
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-5027D5.svg?style=for-the-badge&logo=.NET)  ![SpringBoot](https://img.shields.io/badge/SpringBoot-daf5da.svg?style=for-the-badge&logo=SpringBoot)
+    ![Kotlin](https://img.shields.io/badge/kotlin-9b46e0.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+    
 <br>
 
 ### GitHub Analytics
