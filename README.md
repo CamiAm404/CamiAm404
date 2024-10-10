@@ -33,7 +33,7 @@
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![SQL Server](https://img.shields.io/badge/SQL%20Server-8f2f22.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-289929.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-5f83ba.svg?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto) ![Figma](https://img.shields.io/badge/Figma-be7fd4.svg?style=for-the-badge&logo=figma&logoColor=white) 
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-8f2f22.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-289929.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-5f83ba.svg?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto) ![Figma](https://img.shields.io/badge/Figma-be7fd4.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 <br>
 
@@ -45,7 +45,7 @@
 
 - **Currently learning**:
 
-    ![Kotlin](https://img.shields.io/badge/android-3dd084.svg?style=for-the-badge&logo=android&logoColor=white&logoSize=auto)
+    ![Android](https://img.shields.io/badge/android-3dd084.svg?style=for-the-badge&logo=android&logoColor=white&logoSize=auto) ![Flutter](https://img.shields.io/badge/flutter-17a6d1.svg?style=for-the-badge&logo=flutter)
     
 <br>
 
