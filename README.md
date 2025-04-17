@@ -7,7 +7,6 @@
 
 - Software engineering student at UPC 
 - Participating in CTF's at spare time
-- Currently learning Mobile Development
 
 <br>
 
@@ -31,22 +30,16 @@
 
 <br>
 
+- **Mobile Development**:
+
+    ![Android](https://img.shields.io/badge/android-3dd084.svg?style=for-the-badge&logo=android&logoColor=white&logoSize=auto) ![Flutter](https://img.shields.io/badge/flutter-17a6d1.svg?style=for-the-badge&logo=flutter)
+    
+<br>
+
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-8f2f22.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-289929.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-5f83ba.svg?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto) ![Figma](https://img.shields.io/badge/Figma-be7fd4.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-<br>
-
-- **IDEs**:
-
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-421066.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Datagrip](https://img.shields.io/badge/datagrip-d17bd0.svg?style=for-the-badge&logo=datagrip&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-3e7ab5.svg?style=for-the-badge&logo=webstorm&logoColor=white) <br> ![IntelliJ IDEA](https://img.shields.io/badge/intellij_idea-db7a25.svg?style=for-the-badge&logo=intellijidea&logoColor=white) ![Rider](https://img.shields.io/badge/rider-cf1137.svg?style=for-the-badge&logo=rider&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-2894bf.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-<br>
-
-- **Currently learning**:
-
-    ![Android](https://img.shields.io/badge/android-3dd084.svg?style=for-the-badge&logo=android&logoColor=white&logoSize=auto) ![Flutter](https://img.shields.io/badge/flutter-17a6d1.svg?style=for-the-badge&logo=flutter)
-    
 <br>
 
 ### GitHub Analytics
